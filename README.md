@@ -1,16 +1,34 @@
 ## Hi there 👋
 
-<!--
-**mike1in/mike1in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Miguel**, but on GitHub I go by **mike1in**.  
+I enjoy working on personal projects, learning by building, and improving step by step as a developer.
 
-Here are some ideas to get you started:
+These days I’m focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 Personal projects
+- 📚 Continuous learning and practice
+- 🛠️ Building simple things with care and intention
+
+### 🧠 Technologies I work with
+
+- HTML  
+- C  
+- Java  
+- Python  
+- JavaScript  
+
+### 🚀 Projects
+
+- **Reyes & Huellitas**  
+
+*(More projects coming soon 👀)*
+
+### 🎯 Fun facts
+
+- 🐶 I have **3 dogs**
+- 📖 I enjoy watching **anime and reading manga**
+- 🌸 My favorite anime is **Clannad**
+
+---
+
+Thanks for stopping by 🙌
